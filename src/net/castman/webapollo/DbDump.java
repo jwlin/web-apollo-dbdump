@@ -32,9 +32,7 @@ public class DbDump {
 
         DirectoryScanner scanner = new DirectoryScanner();
         scanner.setIncludes(new String[]{file_path + "/Annotations-*"});
-        //scanner.setIncludes(new String[]{"/app/data/*/" + species + "/jbrowse/annotations/Annotations-*"});
         scanner.setExcludes(new String[]{file_path + "/Annotations-*_history"});
-        //scanner.setExcludes(new String[]{"/app/data/*/" + species + "/jbrowse/annotations/Annotations-*_history"});
 		scanner.setCaseSensitive(false);
         scanner.scan();
         String[] dirs = scanner.getIncludedDirectories();
