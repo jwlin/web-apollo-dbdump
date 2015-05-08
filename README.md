@@ -46,6 +46,6 @@ agrpla	tRNA	23F8A4632547B65CC2B411C92FA0F500	HelroP125059:Helobdella_robusta	use
 
 ## Prerequisite
 - Java runtime
-- shell
+- Bourne shell
 
 (Tested on CentOS 6.5)
