@@ -6,7 +6,7 @@ clone the repo
 ```
 git clone https://github.com/jwlin/web-apollo-dbdump.git
 ```
-Modify `WEBAPP` and `FILEPATH` in `dbdump.sh`, and the run
+Modify `WEBAPP` and `FILEPATH` in `dbdump.sh`, and the run `dbdump.sh`
 ```
 $ ./dbdump.sh
 Processing agrpla for mRNA
