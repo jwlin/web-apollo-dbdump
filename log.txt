@@ -1,0 +1,20 @@
+Processing agrpla for mRNA
+done. 55 records for mRNA
+Processing agrpla for transcript
+done. 8 records for transcript
+Processing agrpla for tRNA
+done. 4 records for tRNA
+Processing agrpla for snRNA
+done. 0 records for snRNA
+Processing agrpla for snoRNA
+done. 0 records for snoRNA
+Processing agrpla for ncRNA
+done. 0 records for ncRNA
+Processing agrpla for rRNA
+done. 0 records for rRNA
+Processing agrpla for miRNA
+done. 0 records for miRNA
+Processing agrpla for repeat_region
+done. 0 records for repeat_region
+Processing agrpla for transposable_element
+done. 0 records for transposable_element
